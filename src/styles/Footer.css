@@ -1,0 +1,14 @@
+.footer{
+  background: #0067A3;
+  padding: 10px;
+}
+.footer .wrapper{
+  align-items: center;
+  height: 7vh;
+  color:white
+}
+.footer__counter{
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
